@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="InputCodeView">
+        <attr name="itemWidth" format="dimension" />
+        <attr name="itemHeight" format="dimension" />
+        <attr name="spaceSize" format="dimension" />
+        <attr name="normalBorderWidth" format="dimension" />
+        <attr name="selectedBorderWidth" format="dimension" />
+        <attr name="borderColor" format="color" />
+        <attr name="selectedBorderColor" format="color" />
+        <attr name="cursorVisible" format="boolean" />
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="cursorHeight" format="dimension" />
+    </declare-styleable>
+</resources>

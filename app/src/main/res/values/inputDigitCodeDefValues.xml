@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="InputCodeView_itemWidth">32dp</dimen>
+    <dimen name="InputCodeView_itemHeight">40dp</dimen>
+    <dimen name="InputCodeView_spaceSize">16dp</dimen>
+    <dimen name="InputCodeView_normalBorderWidth">0.5dp</dimen>
+    <dimen name="InputCodeView_selectedBorderWidth">1dp</dimen>
+    <color name="InputCodeView_borderColor">@android:color/white</color>
+    <color name="InputCodeView_selectedBorderColor">@android:color/white</color>
+    <bool name="InputCodeView_cursorVisible">true</bool>
+    <dimen name="InputCodeView_cornerRadius">2dp</dimen>
+    <dimen name="InputCodeView_cursorHeight">24dp</dimen>
+</resources>
